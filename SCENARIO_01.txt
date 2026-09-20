@@ -1,0 +1,1 @@
+Scenariusz 01: happy path

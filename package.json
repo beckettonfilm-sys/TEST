@@ -1,6 +1,6 @@
 {
   "name": "raffaello-git-workflow-test",
-  "version": "0.1.0-alpha",
+  "version": "0.2.0-alpha",
   "private": true,
   "scripts": {
     "test": "node test.js"
